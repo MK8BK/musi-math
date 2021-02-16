@@ -1,5 +1,5 @@
-<b>
 # musi-math
+<b>
 A python project that combines music scales with math functions to make melodies
 <br><br>
 If you have jupyter notebook installed on your system, go ahead and clone this repository and open the "Music_Production.ipynb" in the jupyter notebook editor.<br>
