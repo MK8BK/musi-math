@@ -1,7 +1,7 @@
 # musi-math
 A python project that combines music scales with math functions to make melodies
 <br>
-<img src="data/readonly/screen1.JPG" width="30%" title="Notebook Title">
+<img src="data/readonly/screen1.JPG" width="30%" title="Notebook Title"><br>
 <img src="data/readonly/screen2.JPG" width="50%" title="function graph 1">
 <img src="data/readonly/screen3.JPG" width="50%" title="function graph 2">
 <br>
